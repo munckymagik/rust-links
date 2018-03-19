@@ -40,6 +40,12 @@ A link collection for resources about the Rust language.
 * [Rust on ARM Cortex-M microcontrollers](http://pramode.in/2017/12/04/rust-on-arm-cortexm-microcontrollers/) (Dec 4, 2017)
 * [Zero cost stack overflow protection for ARM Cortex-M devices](http://blog.japaric.io/stack-overflow-protection/) (February 17, 2018)
 
+# Operating System Development
+
+* [Writing an OS in pure Rust](https://os.phil-opp.com/news/2018-03-09-pure-rust/) (Mar 09, 2018)
+* [Writing an OS in Rust (Second Edition)](https://os.phil-opp.com/second-edition/)
+* [Writing an OS in Rust (First Edition)](https://os.phil-opp.com/)
+
 # Machine Learning
 
 * [About Rust’s Machine Learning Community](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790) (Jan 6, 2016)
