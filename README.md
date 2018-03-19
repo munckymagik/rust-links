@@ -55,7 +55,7 @@ A link collection for resources about the Rust language.
 
 # Audio and Music
 
-* [Writing an Audio Plugin in Rust](https://www.seventeencups.net/posts/writing-an-audio-plugin-in-rust/)
+* [Writing an Audio Plugin in Rust](https://www.seventeencups.net/posts/writing-an-audio-plugin-in-rust/) (March 25, 2017)
 
 # Parallel Computing and Concurrency
 
