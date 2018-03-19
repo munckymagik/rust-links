@@ -60,6 +60,9 @@ A link collection for resources about the Rust language.
 # Parallel Computing and Concurrency
 
 * [SIMD in Rust](http://huonw.github.io/blog/2015/08/simd-in-rust/) (24 Aug 2015)
+* [Designing futures for Rust](http://aturon.github.io/blog/2016/09/07/futures-design/) (07 Sep 2016)
+* [The Future With Futures](http://asquera.de/blog/2017-03-01/the-future-with-futures/) (01-03-2017)
+* [Announcing Tokio](https://medium.com/@carllerche/announcing-tokio-df6bb4ddb34) (Aug 3, 2016)
 
 # Parsing and Serialization etc.
 
