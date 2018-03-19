@@ -50,7 +50,7 @@ A link collection for resources about the Rust language.
 # Machine Learning
 
 * [About Rust’s Machine Learning Community](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790) (Jan 6, 2016)
-* [Snips NLU is an Open Source, Private by Design alternative to Dialogflow, Amazon Lex, and other NLU cloud services](https://medium.com/snips-ai/snips-nlu-is-an-open-source-private-by-design-alternative-to-dialogflow-amazon-lex-and-other-nlu-a95dbe16f4a1)
+* [Snips NLU is an Open Source, Private by Design alternative to Dialogflow, Amazon Lex, and other NLU cloud services](https://medium.com/snips-ai/snips-nlu-is-an-open-source-private-by-design-alternative-to-dialogflow-amazon-lex-and-other-nlu-a95dbe16f4a1) (Mar 7 2018)
 
 # Data structures
 
