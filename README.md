@@ -28,6 +28,7 @@ A link collection for resources about the Rust language.
 
 * [Exploring Dynamic Dispatch in Rust](http://alschwalm.com/blog/static/2017/03/07/exploring-dynamic-dispatch-in-rust/) (07 March 2017)
 * [Iteration patterns for Result & Option](http://xion.io/post/code/rust-iter-patterns.html) (Mon 10 April 2017)
+* [Exploring Function Overloading](http://casualhacks.net/blog/2018-03-10/exploring-function-overloading/) (10 Mar 2018)
 
 # Game Dev
 
@@ -49,6 +50,7 @@ A link collection for resources about the Rust language.
 # Machine Learning
 
 * [About Rust’s Machine Learning Community](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790) (Jan 6, 2016)
+* [Snips NLU is an Open Source, Private by Design alternative to Dialogflow, Amazon Lex, and other NLU cloud services](https://medium.com/snips-ai/snips-nlu-is-an-open-source-private-by-design-alternative-to-dialogflow-amazon-lex-and-other-nlu-a95dbe16f4a1)
 
 # Data structures
 
