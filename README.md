@@ -61,6 +61,10 @@ A link collection for resources about the Rust language.
 
 * [Using an Async Hyper Client](https://mgattozzi.com/hyper-client) (March 9th, 2017)
 
+# System / Network Engineering
+
+* [Building a DNS server in Rust](https://github.com/EmilHernvall/dnsguide)
+
 # Audio and Music
 
 * [Writing an Audio Plugin in Rust](https://www.seventeencups.net/posts/writing-an-audio-plugin-in-rust/) (March 25, 2017)
