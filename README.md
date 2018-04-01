@@ -28,8 +28,11 @@ A link collection for resources about the Rust language.
 # Language Features and Internals
 
 * [Exploring Dynamic Dispatch in Rust](http://alschwalm.com/blog/static/2017/03/07/exploring-dynamic-dispatch-in-rust/) (07 March 2017)
-* [Iteration patterns for Result & Option](http://xion.io/post/code/rust-iter-patterns.html) (Mon 10 April 2017)
 * [Exploring Function Overloading](http://casualhacks.net/blog/2018-03-10/exploring-function-overloading/) (10 Mar 2018)
+* [Iteration patterns for Result & Option](http://xion.io/post/code/rust-iter-patterns.html) (Mon 10 April 2017)
+* [Memory Safety in Rust: A Case Study with C](http://willcrichton.net/notes/rust-memory-safety/) (02 Feb 2018)
+* [Non-lexical lifetimes: introduction](http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/) (27 Apr 2016)
+* [Type-directed metaprogramming in Rust](http://willcrichton.net/notes/type-directed-metaprogramming-in-rust/) (18 Mar 2018)
 
 # Game Dev
 
@@ -65,6 +68,7 @@ A link collection for resources about the Rust language.
 # System / Network Engineering
 
 * [Building a DNS server in Rust](https://github.com/EmilHernvall/dnsguide)
+* [Multicasting in Rust](https://bluejekyll.github.io/blog/rust/2018/03/18/multicasting-in-rust.html)
 
 # Audio and Music
 
