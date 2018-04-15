@@ -12,6 +12,7 @@ A link collection for resources about the Rust language.
 * [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/)
 * [Rust by Example](https://rustbyexample.com/index.html)
 * [Guide to Rustc Development](https://rust-lang-nursery.github.io/rustc-guide/)
+* [The Embedded Rust Book](https://github.com/rust-lang-nursery/embedded-wg/tree/master/books/embedded-rust-book)
 
 # Audio and Music
 
@@ -44,9 +45,10 @@ A link collection for resources about the Rust language.
 
 # Embedded Development
 
-* [Rust your ARM microcontroller!](http://blog.japaric.io/quickstart/) (April 28, 2017)
+* [Building Tiny Rust Binaries for Embedded Linux](https://jamesmunns.com/update/2018/04/01/tinyrocket.html) (Apr 1, 2018) - features Rocket 
 * [Cross-compiling Rust for the Raspberry Pi on macOS](https://akappel.github.io/2017/11/07/rpi-crosstool.html) (Nov 7, 2017)
 * [Rust on ARM Cortex-M microcontrollers](http://pramode.in/2017/12/04/rust-on-arm-cortexm-microcontrollers/) (Dec 4, 2017)
+* [Rust your ARM microcontroller!](http://blog.japaric.io/quickstart/) (April 28, 2017)
 * [Zero cost stack overflow protection for ARM Cortex-M devices](http://blog.japaric.io/stack-overflow-protection/) (February 17, 2018)
 
 # Game Development
@@ -61,6 +63,7 @@ A link collection for resources about the Rust language.
 * [Memory Safety in Rust: A Case Study with C](http://willcrichton.net/notes/rust-memory-safety/) (02 Feb 2018)
 * [Non-lexical lifetimes: introduction](http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/) (27 Apr 2016)
 * [Type-directed metaprogramming in Rust](http://willcrichton.net/notes/type-directed-metaprogramming-in-rust/) (18 Mar 2018)
+* [Rust things I miss in C](https://people.gnome.org/~federico/blog/rust-things-i-miss-in-c.html) 2018/Feb/18)
 
 # Language/Platform Integration
 
@@ -72,6 +75,10 @@ A link collection for resources about the Rust language.
 
 * [About Rust’s Machine Learning Community](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790) (Jan 6, 2016)
 * [Snips NLU is an Open Source, Private by Design alternative to Dialogflow, Amazon Lex, and other NLU cloud services](https://medium.com/snips-ai/snips-nlu-is-an-open-source-private-by-design-alternative-to-dialogflow-amazon-lex-and-other-nlu-a95dbe16f4a1) (Mar 7 2018)
+
+# Macros
+
+* [Refactoring some repetitive code to a Rust macro](https://people.gnome.org/~federico/blog/refactoring-some-repetitive-code-to-a-macro.html) (2018/Mar/23)
 
 # Network Engineering
 
