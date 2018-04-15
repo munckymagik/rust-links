@@ -2,7 +2,7 @@
 
 A link collection for resources about the Rust language.
 
-# Books
+# Primary References
 
 * [The Rust Programming Language (first edition)](https://doc.rust-lang.org/book/first-edition/)
 * [The Rust Programming Language (second edition)](https://doc.rust-lang.org/book/second-edition/)
@@ -24,6 +24,10 @@ A link collection for resources about the Rust language.
 
 * [Communicating Intent](https://github.com/jaheba/stuff/blob/master/communicating_intent.md) (16 Feb 2017) - Newtype pattern and conversions etc.
 * [Rust Design Patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns
+
+# Desktop Development
+
+* [Building a fast Electron app with Rust](https://keminglabs.com/blog/building-a-fast-electron-app-with-rust/) (2018 March 18)
 
 # Language Features and Internals
 
@@ -50,22 +54,25 @@ A link collection for resources about the Rust language.
 * [Writing an OS in pure Rust](https://os.phil-opp.com/news/2018-03-09-pure-rust/) (Mar 09, 2018)
 * [Writing an OS in Rust (Second Edition)](https://os.phil-opp.com/second-edition/)
 * [Writing an OS in Rust (First Edition)](https://os.phil-opp.com/)
+* [kernel-roullette - a Linux kernal module in Rust](https://github.com/souvik1997/kernel-roulette)
 
 # Machine Learning
 
 * [About Rust’s Machine Learning Community](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790) (Jan 6, 2016)
 * [Snips NLU is an Open Source, Private by Design alternative to Dialogflow, Amazon Lex, and other NLU cloud services](https://medium.com/snips-ai/snips-nlu-is-an-open-source-private-by-design-alternative-to-dialogflow-amazon-lex-and-other-nlu-a95dbe16f4a1) (Mar 7 2018)
 
-# Data structures
+# Data Structures
 
 * [Rust Container Cheatsheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/mobilepresent?slide=id.p) (2017-04-21)
 * [Learn Rust by writing Entirely Too Many linked lists](https://github.com/rust-unofficial/too-many-lists)
 
-# Web backend
+# Web Development
 
+* [Building a Restful CRUD API with Rust](https://medium.com/sean3z/building-a-restful-crud-api-with-rust-1867308352d8) (March 19th, 2018) - featuring Serde, Diesel and Rocket
 * [Using an Async Hyper Client](https://mgattozzi.com/hyper-client) (March 9th, 2017)
+* [Touring a Fast, Safe, and Complete(ish) Web Service in Rust](https://brandur.org/rust-web) (March 27, 2018) - features [actix](https://github.com/actix/actix-web) and [actix-web](https://github.com/actix/actix-web)
 
-# System / Network Engineering
+# Network Engineering
 
 * [Building a DNS server in Rust](https://github.com/EmilHernvall/dnsguide)
 * [Multicasting in Rust](https://bluejekyll.github.io/blog/rust/2018/03/18/multicasting-in-rust.html)
@@ -76,18 +83,21 @@ A link collection for resources about the Rust language.
 
 # Parallel Computing and Concurrency
 
-* [SIMD in Rust](http://huonw.github.io/blog/2015/08/simd-in-rust/) (24 Aug 2015)
+* [Announcing Tokio](https://medium.com/@carllerche/announcing-tokio-df6bb4ddb34) (Aug 3, 2016)
+* [Atomics ☢ and memory ordering](https://vorner.github.io/2018/03/25/Atomics.html) (25th March 2018)
 * [Designing futures for Rust](http://aturon.github.io/blog/2016/09/07/futures-design/) (07 Sep 2016)
 * [The Future With Futures](http://asquera.de/blog/2017-03-01/the-future-with-futures/) (01-03-2017)
-* [Announcing Tokio](https://medium.com/@carllerche/announcing-tokio-df6bb4ddb34) (Aug 3, 2016)
+* [SIMD in Rust](http://huonw.github.io/blog/2015/08/simd-in-rust/) (24 Aug 2015)
 
-# Parsing and Serialization etc.
+# Parsing and Serialization
 
 * [Rust and CSV parsing](https://blog.burntsushi.net/csv/)
 
 # Performance and Optimization
 
+* [A Little Story About the `yes` Unix Command](https://matthias-endler.de/2017/yes/) (10th October 2017)
 * [Achieving warp speed with Rust](https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1)
+* [Designing a fast CLI join tool with rust](https://milancio42.github.io/blog/2018-03-22-rjoin/) (22nd March 2018)
 * [ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/)
 
 # FFI and Language/Platform Integration
