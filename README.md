@@ -13,6 +13,19 @@ A link collection for resources about the Rust language.
 * [Rust by Example](https://rustbyexample.com/index.html)
 * [Guide to Rustc Development](https://rust-lang-nursery.github.io/rustc-guide/)
 
+# Audio and Music
+
+* [Writing an Audio Plugin in Rust](https://www.seventeencups.net/posts/writing-an-audio-plugin-in-rust/) (March 25, 2017)
+
+# Build Tools
+
+* [Make your own make](https://matklad.github.io/2018/01/03/make-your-own-make.html) (Jan 3, 2018) - using Cargo's built-in functionality to build "other things" in your project
+
+# Data Structures
+
+* [Rust Container Cheatsheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/mobilepresent?slide=id.p) (2017-04-21)
+* [Learn Rust by writing Entirely Too Many linked lists](https://github.com/rust-unofficial/too-many-lists)
+
 # Design Guidelines
 
 * [Rust API Guidelines](https://rust-lang-nursery.github.io/api-guidelines/)
@@ -29,6 +42,17 @@ A link collection for resources about the Rust language.
 
 * [Building a fast Electron app with Rust](https://keminglabs.com/blog/building-a-fast-electron-app-with-rust/) (2018 March 18)
 
+# Embedded Development
+
+* [Rust your ARM microcontroller!](http://blog.japaric.io/quickstart/) (April 28, 2017)
+* [Cross-compiling Rust for the Raspberry Pi on macOS](https://akappel.github.io/2017/11/07/rpi-crosstool.html) (Nov 7, 2017)
+* [Rust on ARM Cortex-M microcontrollers](http://pramode.in/2017/12/04/rust-on-arm-cortexm-microcontrollers/) (Dec 4, 2017)
+* [Zero cost stack overflow protection for ARM Cortex-M devices](http://blog.japaric.io/stack-overflow-protection/) (February 17, 2018)
+
+# Game Development
+
+* [I Made a Game in Rust](https://michaelfairley.com/blog/i-made-a-game-in-rust/) (09 May 2017)
+
 # Language Features and Internals
 
 * [Exploring Dynamic Dispatch in Rust](http://alschwalm.com/blog/static/2017/03/07/exploring-dynamic-dispatch-in-rust/) (07 March 2017)
@@ -38,16 +62,21 @@ A link collection for resources about the Rust language.
 * [Non-lexical lifetimes: introduction](http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/) (27 Apr 2016)
 * [Type-directed metaprogramming in Rust](http://willcrichton.net/notes/type-directed-metaprogramming-in-rust/) (18 Mar 2018)
 
-# Game Dev
+# Language/Platform Integration
 
-* [I Made a Game in Rust](https://michaelfairley.com/blog/i-made-a-game-in-rust/) (09 May 2017)
+* [Compiling Rust to WebAssembly Guide](https://hackernoon.com/compiling-rust-to-webassembly-guide-411066a69fde) (Jan 4, 2017)
+* [Making WebAssembly better for Rust & for all languages](https://hacks.mozilla.org/2018/03/making-webassembly-better-for-rust-for-all-languages/) (March 14, 2018)
+* [Evolving Our Rust With Milksnake](https://blog.sentry.io/2017/11/14/evolving-our-rust-with-milksnake) (November 14, 2017) - Python extensions in Rust
 
-# Embedded
+# Machine Learning
 
-* [Rust your ARM microcontroller!](http://blog.japaric.io/quickstart/) (April 28, 2017)
-* [Cross-compiling Rust for the Raspberry Pi on macOS](https://akappel.github.io/2017/11/07/rpi-crosstool.html) (Nov 7, 2017)
-* [Rust on ARM Cortex-M microcontrollers](http://pramode.in/2017/12/04/rust-on-arm-cortexm-microcontrollers/) (Dec 4, 2017)
-* [Zero cost stack overflow protection for ARM Cortex-M devices](http://blog.japaric.io/stack-overflow-protection/) (February 17, 2018)
+* [About Rust’s Machine Learning Community](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790) (Jan 6, 2016)
+* [Snips NLU is an Open Source, Private by Design alternative to Dialogflow, Amazon Lex, and other NLU cloud services](https://medium.com/snips-ai/snips-nlu-is-an-open-source-private-by-design-alternative-to-dialogflow-amazon-lex-and-other-nlu-a95dbe16f4a1) (Mar 7 2018)
+
+# Network Engineering
+
+* [Building a DNS server in Rust](https://github.com/EmilHernvall/dnsguide)
+* [Multicasting in Rust](https://bluejekyll.github.io/blog/rust/2018/03/18/multicasting-in-rust.html)
 
 # Operating System Development
 
@@ -56,32 +85,7 @@ A link collection for resources about the Rust language.
 * [Writing an OS in Rust (First Edition)](https://os.phil-opp.com/)
 * [kernel-roullette - a Linux kernal module in Rust](https://github.com/souvik1997/kernel-roulette)
 
-# Machine Learning
-
-* [About Rust’s Machine Learning Community](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790) (Jan 6, 2016)
-* [Snips NLU is an Open Source, Private by Design alternative to Dialogflow, Amazon Lex, and other NLU cloud services](https://medium.com/snips-ai/snips-nlu-is-an-open-source-private-by-design-alternative-to-dialogflow-amazon-lex-and-other-nlu-a95dbe16f4a1) (Mar 7 2018)
-
-# Data Structures
-
-* [Rust Container Cheatsheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/mobilepresent?slide=id.p) (2017-04-21)
-* [Learn Rust by writing Entirely Too Many linked lists](https://github.com/rust-unofficial/too-many-lists)
-
-# Web Development
-
-* [Building a Restful CRUD API with Rust](https://medium.com/sean3z/building-a-restful-crud-api-with-rust-1867308352d8) (March 19th, 2018) - featuring Serde, Diesel and Rocket
-* [Using an Async Hyper Client](https://mgattozzi.com/hyper-client) (March 9th, 2017)
-* [Touring a Fast, Safe, and Complete(ish) Web Service in Rust](https://brandur.org/rust-web) (March 27, 2018) - features [actix](https://github.com/actix/actix-web) and [actix-web](https://github.com/actix/actix-web)
-
-# Network Engineering
-
-* [Building a DNS server in Rust](https://github.com/EmilHernvall/dnsguide)
-* [Multicasting in Rust](https://bluejekyll.github.io/blog/rust/2018/03/18/multicasting-in-rust.html)
-
-# Audio and Music
-
-* [Writing an Audio Plugin in Rust](https://www.seventeencups.net/posts/writing-an-audio-plugin-in-rust/) (March 25, 2017)
-
-# Parallel Computing and Concurrency
+# Parallel and Concurrency
 
 * [Announcing Tokio](https://medium.com/@carllerche/announcing-tokio-df6bb4ddb34) (Aug 3, 2016)
 * [Atomics ☢ and memory ordering](https://vorner.github.io/2018/03/25/Atomics.html) (25th March 2018)
@@ -100,12 +104,9 @@ A link collection for resources about the Rust language.
 * [Designing a fast CLI join tool with rust](https://milancio42.github.io/blog/2018-03-22-rjoin/) (22nd March 2018)
 * [ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/)
 
-# FFI and Language/Platform Integration
+# Web Development
 
-* [Compiling Rust to WebAssembly Guide](https://hackernoon.com/compiling-rust-to-webassembly-guide-411066a69fde) (Jan 4, 2017)
-* [Making WebAssembly better for Rust & for all languages](https://hacks.mozilla.org/2018/03/making-webassembly-better-for-rust-for-all-languages/) (March 14, 2018)
-* [Evolving Our Rust With Milksnake](https://blog.sentry.io/2017/11/14/evolving-our-rust-with-milksnake) (November 14, 2017) - Python extensions in Rust
+* [Building a Restful CRUD API with Rust](https://medium.com/sean3z/building-a-restful-crud-api-with-rust-1867308352d8) (March 19th, 2018) - featuring Serde, Diesel and Rocket
+* [Using an Async Hyper Client](https://mgattozzi.com/hyper-client) (March 9th, 2017)
+* [Touring a Fast, Safe, and Complete(ish) Web Service in Rust](https://brandur.org/rust-web) (March 27, 2018) - features [actix](https://github.com/actix/actix-web) and [actix-web](https://github.com/actix/actix-web)
 
-# Build Tools
-
-* [Make your own make](https://matklad.github.io/2018/01/03/make-your-own-make.html) (Jan 3, 2018) - using Cargo's built-in functionality to build "other things" in your project
