@@ -103,6 +103,7 @@ A link collection for resources about the Rust language.
 # Parsing and Serialization
 
 * [Rust and CSV parsing](https://blog.burntsushi.net/csv/)
+* [Writing a recursive ascent parser by hand](https://www.abubalay.com/blog/2018/04/08/recursive-ascent)
 
 # Performance and Optimization
 
