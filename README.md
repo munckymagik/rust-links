@@ -20,6 +20,7 @@ A link collection for resources about the Rust language.
 
 # Build Tools
 
+* [Everything you need to know about cross compiling Rust programs!](https://github.com/japaric/rust-cross)
 * [Make your own make](https://matklad.github.io/2018/01/03/make-your-own-make.html) (Jan 3, 2018) - using Cargo's built-in functionality to build "other things" in your project
 
 # Data Structures
