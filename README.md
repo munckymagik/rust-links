@@ -39,6 +39,7 @@ A link collection for resources about the Rust language.
 
 * [Communicating Intent](https://github.com/jaheba/stuff/blob/master/communicating_intent.md) (16 Feb 2017) - Newtype pattern and conversions etc.
 * [Rust Design Patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns
+* [Rust pattern: Precise closure capture clauses](http://smallcultfollowing.com/babysteps/blog/2018/04/24/rust-pattern-precise-closure-capture-clauses/) (Apr 24, 2018)
 
 # Desktop Development
 
@@ -48,6 +49,8 @@ A link collection for resources about the Rust language.
 
 * [Building Tiny Rust Binaries for Embedded Linux](https://jamesmunns.com/update/2018/04/01/tinyrocket.html) (Apr 1, 2018) - features Rocket 
 * [Cross-compiling Rust for the Raspberry Pi on macOS](https://akappel.github.io/2017/11/07/rpi-crosstool.html) (Nov 7, 2017)
+* [Discover the world of microcontrollers through Rust!](https://japaric.github.io/discovery/README.html) (book)
+* [Embedded Rust Experiments - Flipping some bits high on STM32VLDISCOVERY board](https://nercury.github.io/rust/embedded/experiments/2018/04/29/rust-embedded-01-discovery-vl-flipping-bits.html) (Apr 29, 2018)
 * [Rust on ARM Cortex-M microcontrollers](http://pramode.in/2017/12/04/rust-on-arm-cortexm-microcontrollers/) (Dec 4, 2017)
 * [Rust your ARM microcontroller!](http://blog.japaric.io/quickstart/) (April 28, 2017)
 * [Zero cost stack overflow protection for ARM Cortex-M devices](http://blog.japaric.io/stack-overflow-protection/) (February 17, 2018)
@@ -58,13 +61,16 @@ A link collection for resources about the Rust language.
 
 # Language Features and Internals
 
+* [An alias-based formulation of the borrow checker](http://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/) (Apr 27, 2018)
+* [Borrowing in async code](https://aturon.github.io/2018/04/24/async-borrowing/) (24 Apr 2018)
 * [Exploring Dynamic Dispatch in Rust](http://alschwalm.com/blog/static/2017/03/07/exploring-dynamic-dispatch-in-rust/) (07 March 2017)
 * [Exploring Function Overloading](http://casualhacks.net/blog/2018-03-10/exploring-function-overloading/) (10 Mar 2018)
+* [How does dynamic dispatch work in WebAssembly?](http://fitzgeraldnick.com/2018/04/26/how-does-dynamic-dispatch-work-in-wasm.html) (Apr 26, 2018)
 * [Iteration patterns for Result & Option](http://xion.io/post/code/rust-iter-patterns.html) (Mon 10 April 2017)
 * [Memory Safety in Rust: A Case Study with C](http://willcrichton.net/notes/rust-memory-safety/) (02 Feb 2018)
 * [Non-lexical lifetimes: introduction](http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/) (27 Apr 2016)
 * [Type-directed metaprogramming in Rust](http://willcrichton.net/notes/type-directed-metaprogramming-in-rust/) (18 Mar 2018)
-* [Rust things I miss in C](https://people.gnome.org/~federico/blog/rust-things-i-miss-in-c.html) 2018/Feb/18)
+* [Rust things I miss in C](https://people.gnome.org/~federico/blog/rust-things-i-miss-in-c.html) (2018/Feb/18)
 
 # Language/Platform Integration
 
@@ -85,13 +91,15 @@ A link collection for resources about the Rust language.
 
 * [Building a DNS server in Rust](https://github.com/EmilHernvall/dnsguide)
 * [Multicasting in Rust](https://bluejekyll.github.io/blog/rust/2018/03/18/multicasting-in-rust.html)
+* [The case for deadlines in timeout-centric APIs](https://gist.github.com/alkis/9510a840f1965185ab0a02cb59761dd8) (retrieved 2018-04-18)
 
 # Operating System Development
 
+* [kernel-roullette - a Linux kernal module in Rust](https://github.com/souvik1997/kernel-roulette)
 * [Writing an OS in pure Rust](https://os.phil-opp.com/news/2018-03-09-pure-rust/) (Mar 09, 2018)
 * [Writing an OS in Rust (Second Edition)](https://os.phil-opp.com/second-edition/)
 * [Writing an OS in Rust (First Edition)](https://os.phil-opp.com/)
-* [kernel-roullette - a Linux kernal module in Rust](https://github.com/souvik1997/kernel-roulette)
+* [Writing an OS in Rust: Unit testing](https://os.phil-opp.com/unit-testing/) (Apr 29, 2018)
 
 # Parallel and Concurrency
 
