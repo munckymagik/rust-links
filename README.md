@@ -67,6 +67,7 @@ A link collection for resources about the Rust language.
 * [Exploring Dynamic Dispatch in Rust](http://alschwalm.com/blog/static/2017/03/07/exploring-dynamic-dispatch-in-rust/) (07 March 2017)
 * [Exploring Function Overloading](http://casualhacks.net/blog/2018-03-10/exploring-function-overloading/) (10 Mar 2018)
 * [How does dynamic dispatch work in WebAssembly?](http://fitzgeraldnick.com/2018/04/26/how-does-dynamic-dispatch-work-in-wasm.html) (Apr 26, 2018)
+* [How Rust Implements Tagged Unions](http://patshaughnessy.net/2018/3/15/how-rust-implements-tagged-unions) (March 15th 2018)
 * [Iteration patterns for Result & Option](http://xion.io/post/code/rust-iter-patterns.html) (Mon 10 April 2017)
 * [Memory Safety in Rust: A Case Study with C](http://willcrichton.net/notes/rust-memory-safety/) (02 Feb 2018)
 * [Non-lexical lifetimes: introduction](http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/) (27 Apr 2016)
