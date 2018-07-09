@@ -131,6 +131,7 @@ A link collection for resources about the Rust language.
 # Web Development
 
 * [Are we web yet?](http://www.arewewebyet.org/)
+* [A web application completely in Rust](https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471) (07 July 2018)
 * [Building a Restful CRUD API with Rust](https://medium.com/sean3z/building-a-restful-crud-api-with-rust-1867308352d8) (March 19th, 2018) - featuring Serde, Diesel and Rocket
 * [Using an Async Hyper Client](https://mgattozzi.com/hyper-client) (March 9th, 2017)
 * [Touring a Fast, Safe, and Complete(ish) Web Service in Rust](https://brandur.org/rust-web) (March 27, 2018) - features [actix](https://github.com/actix/actix-web) and [actix-web](https://github.com/actix/actix-web)
