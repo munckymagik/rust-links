@@ -129,6 +129,10 @@ A link collection for resources about the Rust language.
 * [Designing a fast CLI join tool with rust](https://milancio42.github.io/blog/2018-03-22-rjoin/) (22nd March 2018)
 * [ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/)
 
+# Tutorials
+
+* [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/)
+
 # Web Development
 
 * [Are we web yet?](http://www.arewewebyet.org/)
