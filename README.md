@@ -16,7 +16,7 @@ A link collection for resources about the Rust language.
 * [Guide to Rustc Development](https://rust-lang-nursery.github.io/rustc-guide/)
 * [The Embedded Rust Book](https://github.com/rust-lang-nursery/embedded-wg/tree/master/books/embedded-rust-book)
 * [The Unstable Book](https://doc.rust-lang.org/nightly/unstable-book/the-unstable-book.html)
-
+* [The Rust and WASM Book](https://rustwasm.github.io/book/)
 
 # Audio and Music
 
