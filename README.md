@@ -27,6 +27,10 @@ A link collection for resources about the Rust language.
 * [Everything you need to know about cross compiling Rust programs!](https://github.com/japaric/rust-cross)
 * [Make your own make](https://matklad.github.io/2018/01/03/make-your-own-make.html) (Jan 3, 2018) - using Cargo's built-in functionality to build "other things" in your project
 
+# Command Line Interface
+
+* [glitchcat — Creating CLI apps in Rust is super easy](https://blog.kuviman.com/2018/07/20/glitchcat.html) (2018/07/20)
+
 # Data Structures
 
 * [Rust Container Cheatsheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/mobilepresent?slide=id.p) (2017-04-21)
@@ -136,7 +140,7 @@ A link collection for resources about the Rust language.
 # Web Development
 
 * [Are we web yet?](http://www.arewewebyet.org/)
-* [A static web app in Rust](https://bluejekyll.github.io/blog/rust/2018/07/22/static-web-app-rust.html)
+* [A static web app in Rust](https://bluejekyll.github.io/blog/rust/2018/07/22/static-web-app-rust.html) (2018/07/22)
 * [A web application completely in Rust](https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471) (07 July 2018)
 * [Building a Restful CRUD API with Rust](https://medium.com/sean3z/building-a-restful-crud-api-with-rust-1867308352d8) (March 19th, 2018) - featuring Serde, Diesel and Rocket
 * [Using an Async Hyper Client](https://mgattozzi.com/hyper-client) (March 9th, 2017)
