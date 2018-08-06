@@ -80,6 +80,7 @@ A link collection for resources about the Rust language.
 * [Memory Safety in Rust: A Case Study with C](http://willcrichton.net/notes/rust-memory-safety/) (02 Feb 2018)
 * [Non-lexical lifetimes: introduction](http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/) (27 Apr 2016)
 * [Type-directed metaprogramming in Rust](http://willcrichton.net/notes/type-directed-metaprogramming-in-rust/) (18 Mar 2018)
+* [Rust and the Case of the Redundant Comparison](https://blog.dend.ro/rust-and-the-case-of-the-redundant-comparison/) (2018-08-04)
 * [Rust things I miss in C](https://people.gnome.org/~federico/blog/rust-things-i-miss-in-c.html) (2018/Feb/18)
 
 # Language/Platform Integration
