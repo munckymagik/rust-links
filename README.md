@@ -55,6 +55,7 @@ A link collection for resources about the Rust language.
 
 # Embedded Development
 
+* [BetaFPV F3 Drone Flight Controller - Hello Rust](https://www.joshmcguigan.com/blog/betafpv-drone-flight-controller-hello-rust/) (July 11, 2018)
 * [Building Tiny Rust Binaries for Embedded Linux](https://jamesmunns.com/update/2018/04/01/tinyrocket.html) (Apr 1, 2018) - features Rocket 
 * [Cross-compiling Rust for the Raspberry Pi on macOS](https://akappel.github.io/2017/11/07/rpi-crosstool.html) (Nov 7, 2017)
 * [Discover the world of microcontrollers through Rust!](https://japaric.github.io/discovery/README.html) (book)
