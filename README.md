@@ -118,6 +118,7 @@ A link collection for resources about the Rust language.
 * [Atomics ☢ and memory ordering](https://vorner.github.io/2018/03/25/Atomics.html) (25th March 2018)
 * [Designing futures for Rust](http://aturon.github.io/blog/2016/09/07/futures-design/) (07 Sep 2016)
 * [The Future With Futures](http://asquera.de/blog/2017-03-01/the-future-with-futures/) (01-03-2017)
+* [Learning SIMD with Rust by finding planets](https://medium.com/@Razican/learning-simd-with-rust-by-finding-planets-b85ccfb724c3) (2018-07-02)
 * [Rust concurrency patterns: communicate by sharing your Sender](https://medium.com/@polyglot_factotum/rust-concurrency-patterns-communicate-by-sharing-your-sender-11a496ce7791) (2018/07/21)
 * [SIMD in Rust](http://huonw.github.io/blog/2015/08/simd-in-rust/) (24 Aug 2015)
 * [Tokio internals: Understanding Rust's asynchronous I/O framework from the bottom up](https://cafbit.com/post/tokio_internals/) (December 18, 2017)
