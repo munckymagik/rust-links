@@ -115,6 +115,7 @@ A link collection for resources about the Rust language.
 # Parallel and Concurrency
 
 * [Announcing Tokio](https://medium.com/@carllerche/announcing-tokio-df6bb4ddb34) (Aug 3, 2016)
+* [A Rusty Go at Channels](https://gsquire.github.io/static/post/a-rusty-go-at-channels/) (2018-06-24)
 * [Atomics ☢ and memory ordering](https://vorner.github.io/2018/03/25/Atomics.html) (25th March 2018)
 * [Designing futures for Rust](http://aturon.github.io/blog/2016/09/07/futures-design/) (07 Sep 2016)
 * [The Future With Futures](http://asquera.de/blog/2017-03-01/the-future-with-futures/) (01-03-2017)
