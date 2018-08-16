@@ -98,6 +98,7 @@ A link collection for resources about the Rust language.
 # Macros
 
 * [Refactoring some repetitive code to a Rust macro](https://people.gnome.org/~federico/blog/refactoring-some-repetitive-code-to-a-macro.html) (2018/Mar/23)
+* [Syntax diagram generator](https://lukaslueg.github.io/macro_railroad_wasm_demo/) (2018-08-16)
 
 # Network Engineering
 
