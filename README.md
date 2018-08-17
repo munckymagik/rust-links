@@ -66,6 +66,7 @@ A link collection for resources about the Rust language.
 
 # Game Development
 
+* [Are we game yet? - Rust](http://arewegameyet.com/) (retrieved 2018-08-17)
 * [I Made a Game in Rust](https://michaelfairley.com/blog/i-made-a-game-in-rust/) (09 May 2017)
 
 # Language Features and Internals
