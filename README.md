@@ -31,6 +31,12 @@ A link collection for resources about the Rust language.
 
 * [glitchcat — Creating CLI apps in Rust is super easy](https://blog.kuviman.com/2018/07/20/glitchcat.html) (2018/07/20)
 
+# Data Science, AI and Machine Learning
+
+* [About Rust’s Machine Learning Community](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790) (Jan 6, 2016)
+* [Data manipulation in rust (Part 1 : nalgebra) | Miso and Raclette programming](https://misoraclette.github.io/2018/08/04/data_manipulation.html) (2018-08-03)
+* [Snips NLU is an Open Source, Private by Design alternative to Dialogflow, Amazon Lex, and other NLU cloud services](https://medium.com/snips-ai/snips-nlu-is-an-open-source-private-by-design-alternative-to-dialogflow-amazon-lex-and-other-nlu-a95dbe16f4a1) (Mar 7 2018)
+
 # Data Structures
 
 * [Rust Container Cheatsheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/mobilepresent?slide=id.p) (2017-04-21)
@@ -90,11 +96,6 @@ A link collection for resources about the Rust language.
 * [Compiling Rust to WebAssembly Guide](https://hackernoon.com/compiling-rust-to-webassembly-guide-411066a69fde) (Jan 4, 2017)
 * [Making WebAssembly better for Rust & for all languages](https://hacks.mozilla.org/2018/03/making-webassembly-better-for-rust-for-all-languages/) (March 14, 2018)
 * [Evolving Our Rust With Milksnake](https://blog.sentry.io/2017/11/14/evolving-our-rust-with-milksnake) (November 14, 2017) - Python extensions in Rust
-
-# Machine Learning
-
-* [About Rust’s Machine Learning Community](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790) (Jan 6, 2016)
-* [Snips NLU is an Open Source, Private by Design alternative to Dialogflow, Amazon Lex, and other NLU cloud services](https://medium.com/snips-ai/snips-nlu-is-an-open-source-private-by-design-alternative-to-dialogflow-amazon-lex-and-other-nlu-a95dbe16f4a1) (Mar 7 2018)
 
 # Macros
 
