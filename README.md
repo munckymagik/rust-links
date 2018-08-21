@@ -70,10 +70,11 @@ A link collection for resources about the Rust language.
 * [Rust your ARM microcontroller!](http://blog.japaric.io/quickstart/) (April 28, 2017)
 * [Zero cost stack overflow protection for ARM Cortex-M devices](http://blog.japaric.io/stack-overflow-protection/) (February 17, 2018)
 
-# Game Development
+# Graphics and Game Development
 
 * [Are we game yet? - Rust](http://arewegameyet.com/) (retrieved 2018-08-17)
 * [I Made a Game in Rust](https://michaelfairley.com/blog/i-made-a-game-in-rust/) (09 May 2017)
+* [Rust and OpenGL from scratch - Setup](http://nercury.github.io/rust/opengl/tutorial/2018/02/08/opengl-in-rust-from-scratch-00-setup.html) (retrieved 2018-08-21)
 
 # Language Features and Internals
 
