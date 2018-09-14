@@ -141,7 +141,8 @@ A link collection for resources about the Rust language.
 * [A Little Story About the `yes` Unix Command](https://matthias-endler.de/2017/yes/) (10th October 2017)
 * [Achieving warp speed with Rust](https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1)
 * [Designing a fast CLI join tool with rust](https://milancio42.github.io/blog/2018-03-22-rjoin/) (22nd March 2018)
-* [ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/)
+* [Even quicker byte count — Llogiq on stuff](https://llogiq.github.io/2016/09/27/count.html) (2016-09-27)
+* [ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/) (2016-09-23)
 
 # Tutorials
 
