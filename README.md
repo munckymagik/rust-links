@@ -129,6 +129,7 @@ A link collection for resources about the Rust language.
 * [Rust concurrency patterns: communicate by sharing your Sender](https://medium.com/@polyglot_factotum/rust-concurrency-patterns-communicate-by-sharing-your-sender-11a496ce7791) (2018/07/21)
 * [SIMD in Rust](http://huonw.github.io/blog/2015/08/simd-in-rust/) (24 Aug 2015)
 * [Tokio internals: Understanding Rust's asynchronous I/O framework from the bottom up](https://cafbit.com/post/tokio_internals/) (December 18, 2017)
+* [Towards fearless SIMD | Raph Levien’s blog](https://raphlinus.github.io/rust/simd/2018/10/19/fearless-simd.html) (2018-10-19)
 * [What Are Tokio and Async IO All About?](https://manishearth.github.io/blog/2018/01/10/whats-tokio-and-async-io-all-about/) (JAN 10TH, 2018)
 * [Writing a GPU-Accelerated Path Tracer in Rust](https://bheisler.github.io/post/writing-gpu-accelerated-path-tracer-part-1/) (21 Jun, 2018)
 
