@@ -113,10 +113,8 @@ A link collection for resources about the Rust language.
 # Operating System Development
 
 * [kernel-roullette - a Linux kernal module in Rust](https://github.com/souvik1997/kernel-roulette)
-* [Writing an OS in pure Rust](https://os.phil-opp.com/news/2018-03-09-pure-rust/) (Mar 09, 2018)
-* [Writing an OS in Rust (Second Edition)](https://os.phil-opp.com/second-edition/)
-* [Writing an OS in Rust (First Edition)](https://os.phil-opp.com/)
-* [Writing an OS in Rust: Unit testing](https://os.phil-opp.com/unit-testing/) (Apr 29, 2018)
+* [Writing an OS in Rust (Second Edition)](https://os.phil-opp.com/)
+* [Writing an OS in Rust (First Edition)](https://os.phil-opp.com/first-edition/)
 
 # Parallel and Concurrency
 
