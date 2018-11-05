@@ -22,10 +22,11 @@ A link collection for resources about the Rust language.
 
 * [Writing an Audio Plugin in Rust](https://www.seventeencups.net/posts/writing-an-audio-plugin-in-rust/) (March 25, 2017)
 
-# Build Tools
+# Build & Tools
 
 * [Everything you need to know about cross compiling Rust programs!](https://github.com/japaric/rust-cross)
 * [Make your own make](https://matklad.github.io/2018/01/03/make-your-own-make.html) (Jan 3, 2018) - using Cargo's built-in functionality to build "other things" in your project
+* [My release checklist for Rust programs](https://dev.to/sharkdp/my-release-checklist-for-rust-programs-1m33) (2018-10-28)
 
 # Command Line Interface
 
