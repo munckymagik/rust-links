@@ -97,8 +97,10 @@ A link collection for resources about the Rust language.
 # Language/Platform Integration
 
 * [Compiling Rust to WebAssembly Guide](https://hackernoon.com/compiling-rust-to-webassembly-guide-411066a69fde) (Jan 4, 2017)
-* [Making WebAssembly better for Rust & for all languages](https://hacks.mozilla.org/2018/03/making-webassembly-better-for-rust-for-all-languages/) (March 14, 2018)
 * [Evolving Our Rust With Milksnake](https://blog.sentry.io/2017/11/14/evolving-our-rust-with-milksnake) (November 14, 2017) - Python extensions in Rust
+* [How I Wrote a Modern C++ Library in Rust](https://hsivonen.fi/modern-cpp-in-rust/) (retrieved 2018-12-11)
+* [Making WebAssembly better for Rust & for all languages](https://hacks.mozilla.org/2018/03/making-webassembly-better-for-rust-for-all-languages/) (March 14, 2018)
+* [wasm-bindgen — how does it work?!](http://fitzgeraldnick.com/2018/12/02/wasm-bindgen-how-does-it-work.html) (2018-12-02)
 
 # Macros
 
