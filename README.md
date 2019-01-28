@@ -14,7 +14,7 @@ A link collection for resources about the Rust language.
 * [The Edition Guide](https://rust-lang-nursery.github.io/edition-guide/)
 * [The Rustc Book](https://doc.rust-lang.org/rustc/index.html)
 * [Guide to Rustc Development](https://rust-lang-nursery.github.io/rustc-guide/)
-* [The Embedded Rust Book](https://github.com/rust-lang-nursery/embedded-wg/tree/master/books/embedded-rust-book)
+* [The Embedded Rust Book](https://rust-embedded.github.io/book/)
 * [The Unstable Book](https://doc.rust-lang.org/nightly/unstable-book/the-unstable-book.html)
 * [The Rust and WASM Book](https://rustwasm.github.io/book/)
 
