@@ -14,7 +14,7 @@ A link collection for resources about the Rust language.
 * [The Edition Guide](https://rust-lang-nursery.github.io/edition-guide/)
 * [The Rustc Book](https://doc.rust-lang.org/rustc/index.html)
 * [Guide to Rustc Development](https://rust-lang-nursery.github.io/rustc-guide/)
-* [The Embedded Rust Book](https://rust-embedded.github.io/book/)
+* [Embedded Rust documentation](https://docs.rust-embedded.org/)
 * [The Unstable Book](https://doc.rust-lang.org/nightly/unstable-book/the-unstable-book.html)
 * [The Rust and WASM Book](https://rustwasm.github.io/book/)
 
@@ -80,6 +80,7 @@ A link collection for resources about the Rust language.
 
 # Language Features and Internals
 
+* [Allocations in Rust](https://speice.io/2019/02/understanding-allocations-in-rust.html) (retrieved 2019-02-15)
 * [An alias-based formulation of the borrow checker](http://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/) (Apr 27, 2018)
 * [A Quick Look at Trait Objects in Rust](https://tratt.net/laurie/blog/entries/a_quick_look_at_trait_objects_in_rust.html) (retrieved 2019-02-15)
 * [Borrowing in async code](https://aturon.github.io/2018/04/24/async-borrowing/) (24 Apr 2018)
