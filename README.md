@@ -81,9 +81,11 @@ A link collection for resources about the Rust language.
 # Language Features and Internals
 
 * [An alias-based formulation of the borrow checker](http://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/) (Apr 27, 2018)
+* [A Quick Look at Trait Objects in Rust](https://tratt.net/laurie/blog/entries/a_quick_look_at_trait_objects_in_rust.html) (retrieved 2019-02-15)
 * [Borrowing in async code](https://aturon.github.io/2018/04/24/async-borrowing/) (24 Apr 2018)
 * [Exploring Dynamic Dispatch in Rust](http://alschwalm.com/blog/static/2017/03/07/exploring-dynamic-dispatch-in-rust/) (07 March 2017)
 * [Exploring Function Overloading](http://casualhacks.net/blog/2018-03-10/exploring-function-overloading/) (10 Mar 2018)
+* [Exploring Rust fat pointers](https://iandouglasscott.com/2018/05/28/exploring-rust-fat-pointers/) (2018-05-27)
 * [How does dynamic dispatch work in WebAssembly?](http://fitzgeraldnick.com/2018/04/26/how-does-dynamic-dispatch-work-in-wasm.html) (Apr 26, 2018)
 * [How Rust Implements Tagged Unions](http://patshaughnessy.net/2018/3/15/how-rust-implements-tagged-unions) (March 15th 2018)
 * [Iteration patterns for Result & Option](http://xion.io/post/code/rust-iter-patterns.html) (Mon 10 April 2017)
@@ -94,6 +96,7 @@ A link collection for resources about the Rust language.
 * [Type-directed metaprogramming in Rust](http://willcrichton.net/notes/type-directed-metaprogramming-in-rust/) (18 Mar 2018)
 * [Rust and the Case of the Redundant Comparison](https://blog.dend.ro/rust-and-the-case-of-the-redundant-comparison/) (2018-08-04)
 * [Rust things I miss in C](https://people.gnome.org/~federico/blog/rust-things-i-miss-in-c.html) (2018/Feb/18)
+
 
 # Language/Platform Integration
 
