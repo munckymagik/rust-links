@@ -11,6 +11,7 @@ A link collection for resources about the Rust language.
 * [The Cargo Book](https://doc.rust-lang.org/cargo/)
 * [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/)
 * [Rust by Example](https://rustbyexample.com/index.html)
+* [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 * [The Edition Guide](https://rust-lang-nursery.github.io/edition-guide/)
 * [The Rustc Book](https://doc.rust-lang.org/rustc/index.html)
 * [Guide to Rustc Development](https://rust-lang-nursery.github.io/rustc-guide/)
