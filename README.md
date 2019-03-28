@@ -44,7 +44,7 @@ A link collection for resources about the Rust language.
 # Data Structures
 
 * [Rust Container Cheatsheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/mobilepresent?slide=id.p) (2017-04-21)
-* [Learn Rust by writing Entirely Too Many linked lists](https://github.com/rust-unofficial/too-many-lists)
+* [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/) (retrieved 2019-03-28)
 
 # Design Guidelines
 
