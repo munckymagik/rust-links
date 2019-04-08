@@ -19,6 +19,10 @@ A link collection for resources about the Rust language.
 * [The Unstable Book](https://doc.rust-lang.org/nightly/unstable-book/the-unstable-book.html)
 * [The Rust and WASM Book](https://rustwasm.github.io/book/)
 
+# Cheatsheets
+
+* [Rust Language Cheat Sheet](https://cheats.rs/) (retrieved 2019-04-08)
+
 # Audio and Music
 
 * [Writing an Audio Plugin in Rust](https://www.seventeencups.net/posts/writing-an-audio-plugin-in-rust/) (March 25, 2017)
