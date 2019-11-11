@@ -8,6 +8,7 @@ A link collection for resources about the Rust language.
 * [The Rust Programming Language (second edition)](https://doc.rust-lang.org/book/second-edition/)
 * [The Rust Reference](https://doc.rust-lang.org/reference/)
 * [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
+* [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/index.html)
 * [The Cargo Book](https://doc.rust-lang.org/cargo/)
 * [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/)
 * [Rust by Example](https://rustbyexample.com/index.html)
