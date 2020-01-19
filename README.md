@@ -50,7 +50,10 @@ A link collection for resources about the Rust language.
 # Data Structures
 
 * [Rust Container Cheatsheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/mobilepresent?slide=id.p) (2017-04-21)
-* [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/) (retrieved 2019-03-28)
+* [Interior mutability patterns – Paul Dicker – Some random Rust-related thoughts](https://pitdicker.github.io/Interior-mutability-patterns/) (retrieved 2020-01-19)
+* [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/) (2019-02-07)
+* [Writing a seqlock in Rust – Paul Dicker – Some random Rust-related thoughts](https://pitdicker.github.io/Writing-a-seqlock-in-Rust/) (retrieved 2020-01-19)
+
 
 # Design Guidelines
 
@@ -58,6 +61,7 @@ A link collection for resources about the Rust language.
 * [Elegant Library APIs in Rust](https://deterministic.space/elegant-apis-in-rust.html)
 * [Math with distances in Rust: safety and correctness across units](https://ferrisellis.com/posts/rust-implementing-units-for-types/)
 * [Not Explicit](https://boats.gitlab.io/blog/post/2017-12-27-things-explicit-is-not/) (December 27, 2017)
+* [Prefer Rust to C/C++ for new code. - Cliffle](http://cliffle.com/blog/prefer-rust/) (retrieved 2020-01-19)
 
 # Design Patterns
 
@@ -107,7 +111,6 @@ A link collection for resources about the Rust language.
 * [Rust and the Case of the Redundant Comparison](https://blog.dend.ro/rust-and-the-case-of-the-redundant-comparison/) (2018-08-04)
 * [Rust things I miss in C](https://people.gnome.org/~federico/blog/rust-things-i-miss-in-c.html) (2018/Feb/18)
 
-
 # Language/Platform Integration
 
 * [Compiling Rust to WebAssembly Guide](https://hackernoon.com/compiling-rust-to-webassembly-guide-411066a69fde) (Jan 4, 2017)
@@ -141,11 +144,16 @@ A link collection for resources about the Rust language.
 * [Atomics ☢ and memory ordering](https://vorner.github.io/2018/03/25/Atomics.html) (25th March 2018)
 * [Comparing parallel Rust and C++](https://parallel-rust-cpp.github.io/) (retrieved 2019-11-11)
 * [Designing futures for Rust](http://aturon.github.io/blog/2016/09/07/futures-design/) (07 Sep 2016)
+* [Explaining Atomics in Rust](https://cfsamsonbooks.gitbook.io/explaining-atomics-in-rust/) (retrieved 2020-01-19)
+* [I'm not feeling the async pressure | Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2020/1/1/async-pressure/) (2020-01-01)
 * [The Future With Futures](http://asquera.de/blog/2017-03-01/the-future-with-futures/) (01-03-2017)
 * [Learning SIMD with Rust by finding planets](https://medium.com/@Razican/learning-simd-with-rust-by-finding-planets-b85ccfb724c3) (2018-07-02)
 * [Making the Tokio scheduler 10x faster · Tokio](https://tokio.rs/blog/2019-10-scheduler/) (2019-10-13)
+* [Mutexes Are Faster Than Spinlocks](https://matklad.github.io/2020/01/04/mutexes-are-faster-than-spinlocks.html) (2020-01-04)
 * [Rust concurrency patterns: communicate by sharing your Sender](https://medium.com/@polyglot_factotum/rust-concurrency-patterns-communicate-by-sharing-your-sender-11a496ce7791) (2018/07/21)
 * [SIMD in Rust](http://huonw.github.io/blog/2015/08/simd-in-rust/) (24 Aug 2015)
+* [Spinlocks Considered Harmful](https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html) (2020-01-02)
+* [Streams Concurrency](https://blog.yoshuawuyts.com/streams-concurrency/) (2019-12-21)
 * [Tokio internals: Understanding Rust's asynchronous I/O framework from the bottom up](https://cafbit.com/post/tokio_internals/) (December 18, 2017)
 * [Towards fearless SIMD | Raph Levien’s blog](https://raphlinus.github.io/rust/simd/2018/10/19/fearless-simd.html) (2018-10-19)
 * [What Are Tokio and Async IO All About?](https://manishearth.github.io/blog/2018/01/10/whats-tokio-and-async-io-all-about/) (JAN 10TH, 2018)
@@ -163,6 +171,10 @@ A link collection for resources about the Rust language.
 * [Designing a fast CLI join tool with rust](https://milancio42.github.io/blog/2018-03-22-rjoin/) (22nd March 2018)
 * [Even quicker byte count — Llogiq on stuff](https://llogiq.github.io/2016/09/27/count.html) (2016-09-27)
 * [ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/) (2016-09-23)
+
+# Security
+
+* [Smoke-testing Rust HTTP clients - Sergey "Shnatsel" Davidoff - Medium](https://medium.com/@shnatsel/smoke-testing-rust-http-clients-b8f2ee5db4e6) (2020-01-16)
 
 # Tutorials
 
