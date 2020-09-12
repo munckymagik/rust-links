@@ -78,8 +78,10 @@ A link collection for resources about the Rust language.
 * [BetaFPV F3 Drone Flight Controller - Hello Rust](https://www.joshmcguigan.com/blog/betafpv-drone-flight-controller-hello-rust/) (July 11, 2018)
 * [Building Tiny Rust Binaries for Embedded Linux](https://jamesmunns.com/update/2018/04/01/tinyrocket.html) (Apr 1, 2018) - features Rocket 
 * [Cross-compiling Rust for the Raspberry Pi on macOS](https://akappel.github.io/2017/11/07/rpi-crosstool.html) (Nov 7, 2017)
+* [Examining ARM vs X86 Memory Models with Rust - Nick Wilcox’s Coding Blog](https://www.nickwilcox.com/blog/arm_vs_x86_memory_model/) (2020-06-26)
 * [Discover the world of microcontrollers through Rust!](https://japaric.github.io/discovery/README.html) (book)
 * [Embedded Rust Experiments - Flipping some bits high on STM32VLDISCOVERY board](https://nercury.github.io/rust/embedded/experiments/2018/04/29/rust-embedded-01-discovery-vl-flipping-bits.html) (Apr 29, 2018)
+* [How to run Rust on Arduino Uno](https://dev.to/creativcoder/how-to-run-rust-on-arduino-uno-40c0) (retrieved 2020-08-20)
 * [Rust on ARM Cortex-M microcontrollers](http://pramode.in/2017/12/04/rust-on-arm-cortexm-microcontrollers/) (Dec 4, 2017)
 * [Rust your ARM microcontroller!](http://blog.japaric.io/quickstart/) (April 28, 2017)
 * [Zero cost stack overflow protection for ARM Cortex-M devices](http://blog.japaric.io/stack-overflow-protection/) (February 17, 2018)
@@ -92,6 +94,7 @@ A link collection for resources about the Rust language.
 
 # Language Features and Internals
 
+* [Allocation API, allocators and virtual memory - IV Notes](https://notes.iveselov.info/programming/allocation-api-and-allocators) (retrieved 2020-09-12)
 * [Allocations in Rust](https://speice.io/2019/02/understanding-allocations-in-rust.html) (retrieved 2019-02-15)
 * [An alias-based formulation of the borrow checker](http://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/) (Apr 27, 2018)
 * [A Quick Look at Trait Objects in Rust](https://tratt.net/laurie/blog/entries/a_quick_look_at_trait_objects_in_rust.html) (retrieved 2019-02-15)
@@ -105,6 +108,7 @@ A link collection for resources about the Rust language.
 * [Iteration patterns for Result & Option](http://xion.io/post/code/rust-iter-patterns.html) (Mon 10 April 2017)
 * [Making Arc more atomic](https://vorner.github.io/2018/06/24/arc-more-atomic.html) (2018/06/24)
 * [Memory Safety in Rust: A Case Study with C](http://willcrichton.net/notes/rust-memory-safety/) (02 Feb 2018)
+* [Moves, copies and clones in Rust](https://hashrust.com/blog/moves-copies-and-clones-in-rust/) (retrieved 2020-09-12)
 * [Non-lexical lifetimes: introduction](http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/) (27 Apr 2016)
 * [Notes on Type Layouts and ABIs in Rust](https://gankro.github.io/blah/rust-layouts-and-abis/) (2018-10-09)
 * [Type-directed metaprogramming in Rust](http://willcrichton.net/notes/type-directed-metaprogramming-in-rust/) (18 Mar 2018)
